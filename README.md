@@ -1,14 +1,14 @@
 # BANKLY.AAU UI/UX Design
 
-This project contains the UI/UX designs for the BANKLY app, created using Figma.
+This repository contains the UI/UX design assets for the **BANKLY.AAU** project.
 
-## Project Structure
+## Figma Prototype
+You can view the interactive prototype in Figma:  
+[Figma Prototype Link](https://www.figma.com/proto/MkczFMkKoJONyQQ1TKYq07/BANKLY-AAU-XDT2025?node-id=123-219&starting-point-node-id=123%3A219&t=QL7VssqX7wcorZBK-1)
 
-- `assets/` - All design images (PNG, SVG, and icons)
-- `README.md` - Project description and usage
+## Assets
+All design images and assets are stored in the `assets/` folder.
 
-## How to Use
-You can browse the design images inside the `assets/` folder to see all screens and UI elements.
-
-## Note
-This project is for presentation purposes only and does not contain functional application code.
+## Notes
+- This repository contains only design files and images.
+- No source code is included.
