@@ -2,13 +2,13 @@
 
 This project contains the UI/UX designs for the BANKLY app, created using Figma.
 
-## Project Contents
-- Design images (PNG, SVG)
-- User interface screens (Frames, Components)
-- Icons and UI elements
+## Project Structure
+
+- `assets/` - All design images (PNG, SVG, and icons)
+- `README.md` - Project description and usage
 
 ## How to Use
-You can view the images and designs directly in the folder or share the project via a design platform with your team.
+You can browse the design images inside the `assets/` folder to see all screens and UI elements.
 
 ## Note
-This project is for presentation purposes only and does not contain any functional application code.
+This project is for presentation purposes only and does not contain functional application code.
